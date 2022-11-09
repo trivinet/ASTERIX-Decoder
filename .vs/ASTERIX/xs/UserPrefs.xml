@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1E8B6DF3-627B-41C0-9C07-4DA40BEC5114}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsterixDecoderJon/Program.cs">
+    <Files>
+      <File FileName="AsterixDecoderJon/Program.cs" Line="23" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AsterixDecoderJon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+C:\Users\tronc\Desktop\Dashboard.exe
+C:\Users\tronc\Desktop\Dashboard.dll
+C:\Users\tronc\Desktop\Dashboard.deps.json
+C:\Users\tronc\Desktop\Dashboard.runtimeconfig.json
+C:\Users\tronc\Desktop\Dashboard.pdb
